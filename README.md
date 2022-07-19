@@ -14,3 +14,9 @@ of this portfolio are as follows:_
 * CSS variables
 
 ### Deployed Application
+https://clacson95.github.io/portfolio/ 
+
+### Sreenshots
+
+![portfolio1](https://user-images.githubusercontent.com/108302822/179687024-f0a6b3c1-ed18-40eb-8fd8-c1dade46b1b1.png)
+![portfolio2](https://user-images.githubusercontent.com/108302822/179687051-b93606b7-a834-4840-aef4-771bdd601fc7.png)
