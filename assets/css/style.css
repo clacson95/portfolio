@@ -250,6 +250,15 @@ p {
     background-color: #576CA8;
 }
 
+.fridge-label {
+    position: relative;
+    left: 18px;
+    bottom: 65px;
+    width: 100px;
+    border: 2px solid rgb(158, 64, 64);
+    background-color: #576CA8;
+}
+
 .contact section {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: 30px;
